@@ -34,7 +34,7 @@
 | `跨学科深度研究_引用库.md` | 历史对位案例库、概念迁移表、权威信源书目 |
 | `ai介入工作保密风控要点.md` | API Key 安全、Skills 供应链攻击防范 |
 | `deepseek API配置全流程记录.md` | Mac 环境 DeepSeek API 接入 Claude Code 配置指南 |
-=======
+
 #### 8. 文章到视频工作流 SKILL
 
 ## 使用方式
